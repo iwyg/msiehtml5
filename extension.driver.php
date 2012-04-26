@@ -6,12 +6,13 @@
 			return array(
 				'name' => 'MsieHtml5',
 				'type'	=> 'output',
-				'version' => '1',
-				'release-date' => '2011-03-03',
+				'version' => '1.0.1',
+				'release-date' => '2012-04-26',
 				'author' => array(
-					'name' => 'Thomas Appel'
+					'name' => 'Thomas Appel',
+					'website' => 'http://thomas-appel.com'
 				),
-				'description' => 'Replace XHTML syntax with basic HTML5 syntax.',
+				'description' => 'HTML5 Elements for older IE witout javascript shims',
 				'compatibility' => array(
 					'2.1.2' => true,
 					'2.2' => true

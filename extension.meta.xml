@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extension id="msiehtml5" status="unmaintained" xmlns="http://symphony-cms.com/schemas/extension/1.0">
+	<name>msiehtml5</name>
+	<description>HTML5 Elements for older IE witout javascript shims</description>
+	<url type="discuss">http://symphony-cms.com/discuss/thread/69142/</url>
+	<repo type="github">https://github.com/iwyg/msiehtml5</repo>
+	<types>
+		<type>Other</type>
+	</types>
+	<authors>
+		<author>
+			<name github="iwyg" symphony="iwyg">Thomas Appel</name>
+			<website>http://thomas-appel.com</website>
+		</author>
+	</authors>
+	<releases>
+		<release version="1.0.1" date="2012-04-26" min="2.1.2">
+			- added `extension.meta.xml`
+			- set status unmaintained
+		</release>
+		<release version="1.0" date="2011-03-03" min="2.1.2">
+			- initial release
+		</release>
+	</releases>
+</extension>
+
